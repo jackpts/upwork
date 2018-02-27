@@ -1,0 +1,207 @@
+Tue Feb 27 22:26:39 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Kim Ralls
+Found part that meet: reference - Midnight Rain
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-12-16
+Found part that meet: saldo - 1.2
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Eva Corets
+Found part that meet: reference - Maeve Ascendant
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-11-17
+Found part that meet: saldo - 1.3
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Yauheni Pauliukanets
+Found part that meet: reference - Oberon's Legacy
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
+Tue Feb 27 22:30:38 +03 2018
+No Input parameter found!
+---------------------------
+Tue Feb 27 22:31:22 +03 2018
+No Input parameter found!
+---------------------------
+Tue Feb 27 22:31:30 +03 2018
+Mentioned file doesn't exist!
+---------------------------
+Tue Feb 27 22:32:00 +03 2018
+Mentioned file (sdf4456) doesn't exist!
+---------------------------
+Tue Feb 27 22:32:11 +03 2018
+Mentioned file (sdf4456.xml) doesn't exist!
+---------------------------
+Tue Feb 27 22:32:18 +03 2018
+Mentioned file (--) doesn't exist!
+---------------------------
+Tue Feb 27 22:32:22 +03 2018
+No Input parameter found!
+---------------------------
+Tue Feb 27 22:32:32 +03 2018
+Mentioned file (account.xmll) doesn't exist!
+---------------------------
+Tue Feb 27 22:32:34 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Kim Ralls
+Found part that meet: reference - Midnight Rain
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-12-16
+Found part that meet: saldo - 1.2
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Eva Corets
+Found part that meet: reference - Maeve Ascendant
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-11-17
+Found part that meet: saldo - 1.3
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Yauheni Pauliukanets
+Found part that meet: reference - Oberon's Legacy
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
+----------------------------
+Tue Feb 27 22:33:09 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Kim Ralls
+Found part that meet: reference - Midnight Rain
+Found part that meet: date - 2000-12-16
+Found part that meet: saldo - 1.2
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Eva Corets
+Found part that meet: reference - Maeve Ascendant
+Found part that meet: value - 5.95
+Found part that meet: saldo - 1.3
+...Section END found.
+...Section START found.
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
+----------------------------
+Tue Feb 27 22:33:46 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Kim Ralls
+Found part that meet: reference - Midnight Rain
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-12-16
+Found part that meet: saldo - 1.2
+...Section END found.
+...Section START found.
+...DEFECT Section! NONE found!
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Yauheni Pauliukanets
+Found part that meet: reference - Oberon's Legacy
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
+----------------------------
+Tue Feb 27 22:34:34 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+===DEFECT Section! NONE found!===
+...Section END found.
+...Section START found.
+===DEFECT Section! NONE found!===
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Yauheni Pauliukanets
+Found part that meet: reference - Oberon's Legacy
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
+----------------------------
+Tue Feb 27 22:34:58 +03 2018
+Mentioned file (account.xm) doesn't exist!
+----------------------------
+Tue Feb 27 22:35:01 +03 2018
+Specified INPUT file as: account.xml
+OUTPUT file will be: account.csv
+...Section START found.
+Found part that meet: payee_name - Matthew Gambardella
+Found part that meet: reference - XML Developer's Guide
+Found part that meet: value - 44.95
+Found part that meet: date - 2000-10-01
+Found part that meet: saldo - 1.1
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Kim Ralls
+Found part that meet: reference - Midnight Rain
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-12-16
+Found part that meet: saldo - 1.2
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Eva Corets
+Found part that meet: reference - Maeve Ascendant
+Found part that meet: value - 5.95
+Found part that meet: date - 2000-11-17
+Found part that meet: saldo - 1.3
+...Section END found.
+...Section START found.
+Found part that meet: payee_name - Yauheni Pauliukanets
+Found part that meet: reference - Oberon's Legacy
+Found part that meet: value - 5.95
+Found part that meet: date - 2001-03-10
+Found part that meet: saldo - 1.4
+...Section END found.
+LOG file closed.
