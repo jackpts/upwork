@@ -2,7 +2,9 @@
 
 # Title: script XML -> CSV conversion
 
-###Task Description
+***Client***: Germany, Muenchen, Member Since Oct 24, 2011
+
+### Task Description
 
 Details
 We have bank account data in XML formant and need to convert it into CSV format. No complex XML, it is bank account data. We need to convert 5 columns.
@@ -21,3 +23,9 @@ Project Type: One-time project
 You will be asked to answer the following questions when submitting a proposal:
 
 What language will you use for scripting?
+
+--------------------------
+
+Repulsed the work from me: 
+- Andriamahenina N.; Antananarivo, Madagascar; PDF expert.
+- https://www.upwork.com/freelancers/~013ded83bf03b76ed1
